@@ -35,9 +35,27 @@ HTML,
 CSS,
 Java Script
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Screen Shots:
 
 Home Page:
+
+![homepage](https://user-images.githubusercontent.com/116258236/206639068-611b5bb2-1689-4bd1-9465-f7d958fe6d6f.png)
+
+Yoga Query bot:
+
+![yogaquerybot ](https://user-images.githubusercontent.com/116258236/206639054-cb0e7c60-e1fb-4913-9c49-3cbeb150d1c1.png)
+
+About us:
+
+![about us](https://user-images.githubusercontent.com/116258236/206639062-3b9086ba-f926-4219-b5e5-5fad300e974f.png)
+
+Blog Page:
+
+![blog page](https://user-images.githubusercontent.com/116258236/206639067-859a9341-b2b4-4325-b64f-da753feed1be.png)
+
+Services Page:
+
+![services page](https://user-images.githubusercontent.com/116258236/206639072-3c5d92b6-5e21-4cda-9693-a5e7d8e81fac.png)
 
 
