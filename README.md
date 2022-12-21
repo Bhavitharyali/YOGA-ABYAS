@@ -59,3 +59,14 @@ Services Page:
 ![services page](https://user-images.githubusercontent.com/116258236/206639072-3c5d92b6-5e21-4cda-9693-a5e7d8e81fac.png)
 
 
+
+Static web app:
+
+
+
+![Screenshot_20221221_202257](https://user-images.githubusercontent.com/116258236/208935827-b26a3a87-6987-45d8-aae4-56c31ea8b40d.png)
+
+Azure health bot:
+
+![Screenshot_20221221_202322](https://user-images.githubusercontent.com/116258236/208935865-aa90b7f4-fbb7-4e22-b6c9-3e579fd83a86.png)
+
