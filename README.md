@@ -38,37 +38,79 @@ Java Script
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Screen Shots:
 
-Home Page:
+
+# Azure resorces,static web apps,health bot:
+
+![Screenshot_20221222_140326](https://user-images.githubusercontent.com/116258236/209095765-8edcec4b-45f3-47cf-8b91-65b1b50e9cd4.png)
+
+
+
+
+# Azure static web apps:
+
+
+![Screenshot_20221221_202257](https://user-images.githubusercontent.com/116258236/209095983-26885383-daf7-4b47-9634-aded3964d890.png)
+
+
+# Azure health bot:
+
+
+![Screenshot_20221221_202322](https://user-images.githubusercontent.com/116258236/209096191-dc90a783-23ce-442b-90c9-d358129f319e.png)
+
+
+# Scenario management:
+
+
+![Screenshot_20221222_140553](https://user-images.githubusercontent.com/116258236/209096426-68a4e664-1a2f-423f-af47-9e0e4870dbd4.png)
+
+
+## Home Page:
 
 ![homepage](https://user-images.githubusercontent.com/116258236/206639068-611b5bb2-1689-4bd1-9465-f7d958fe6d6f.png)
 
-Yoga Query bot:
+## Yoga Query bot:
 
 ![yogaquerybot ](https://user-images.githubusercontent.com/116258236/206639054-cb0e7c60-e1fb-4913-9c49-3cbeb150d1c1.png)
 
-About us:
+## About us:
 
 ![about us](https://user-images.githubusercontent.com/116258236/206639062-3b9086ba-f926-4219-b5e5-5fad300e974f.png)
 
-Blog Page:
+## Blog Page:
 
 ![blog page](https://user-images.githubusercontent.com/116258236/206639067-859a9341-b2b4-4325-b64f-da753feed1be.png)
 
-Services Page:
+## Services Page:
 
 ![services page](https://user-images.githubusercontent.com/116258236/206639072-3c5d92b6-5e21-4cda-9693-a5e7d8e81fac.png)
 
 
 
-Static web app:
+# Test in webchat 1:
+
+
+![Screenshot_20221222_142932](https://user-images.githubusercontent.com/116258236/209097413-917c01f7-49e4-42ac-8a8f-683852eae702.png)
 
 
 
-![Screenshot_20221221_202257](https://user-images.githubusercontent.com/116258236/208935827-b26a3a87-6987-45d8-aae4-56c31ea8b40d.png)
+# Test in webchat 2:
 
-Azure health bot:
 
-![Screenshot_20221221_202322](https://user-images.githubusercontent.com/116258236/208935865-aa90b7f4-fbb7-4e22-b6c9-3e579fd83a86.png)
+![Screenshot_20221222_142944](https://user-images.githubusercontent.com/116258236/209097565-67b8d022-090f-437e-8eb2-43ca829c40fe.png)
+
+
+# Test in webchat 3:
+
+
+
+![Screenshot_20221222_142956](https://user-images.githubusercontent.com/116258236/209097749-8f998bbc-0d36-4fd5-8e90-5de7fc1c98d3.png)
+
+
+
+
+
+
+
 
 
 
