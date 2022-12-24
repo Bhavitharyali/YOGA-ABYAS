@@ -4,13 +4,15 @@ Project Name:YOGA ABAYAS
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Links:
 
-Gitgub  Reprository link:https://github.com/Bhavitharyali/YOGA-ABYAS
+Github  Reprository link:https://github.com/Bhavitharyali/YOGA-ABYAS
 
 Github Project Link:https://bhavitharyali.github.io/YOGA-ABYAS/
 
 Azure project link:https://polite-flower-0cf657910.2.azurestaticapps.net
 
 Azure Health bot link:https://eastus.healthbot.microsoft.com/account/yogaabyasbot-7m2eht5
+
+Project Demo vedio link:https://youtu.be/B5HMp0Lixt4
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
