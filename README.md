@@ -70,9 +70,19 @@ Project Screen Shots:
 
 ![homepage](https://user-images.githubusercontent.com/116258236/206639068-611b5bb2-1689-4bd1-9465-f7d958fe6d6f.png)
 
-## Yoga Query bot:
+## Yoga Query bot 1:
 
 ![yogaquerybot ](https://user-images.githubusercontent.com/116258236/206639054-cb0e7c60-e1fb-4913-9c49-3cbeb150d1c1.png)
+
+## Yoga Query bot 2:
+
+![Screenshot_20221227_150649](https://user-images.githubusercontent.com/116258236/209646732-29cae933-3545-4c53-b130-fc5a6fc5f216.png)
+
+
+## Yoga Query bot 3:
+
+![Screenshot_20221227_150720](https://user-images.githubusercontent.com/116258236/209646791-37483285-b7bd-479b-aa22-4b300f8a2b4f.png)
+
 
 ## About us:
 
